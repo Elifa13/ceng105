@@ -5,6 +5,6 @@ printf("Elif was here");
 printf("ulya was here"); 
 printf("Elif is still here");
 printf("ulya is still here");         
-printf("I just wanna leave");
+printf("I just wanna leavee");
 return 0;
 }
